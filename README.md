@@ -13,7 +13,9 @@ After doing that download the folder that I have attached as a zip
 
 Now install the SFML graphics Library either in VS code terminal or normal Linux Terminal
 
-- `Installing SFML Library:`[sudo apt-get install libsfml-dev](sudo apt-get install libsfml-dev)
+- `Installing SFML Library:`sudo apt-get install libsfml-dev
 
 
 
+
+[![Project Link](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeeKingg/Stylish-Text)
