@@ -18,4 +18,4 @@ Now install the SFML graphics Library either in VS code terminal or normal Linux
 
 
 
-[![Project Link](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeeKingg/Stylish-Text)
+[![Project Link](https://www.herokucdn.com/deploy/button.svg)](https://github.com/haiderBukhari/Tetris-Game-C-/blob/main/TetrisGame.zip)
