@@ -1,11 +1,11 @@
-# Tetris-Game-C-
+# Tetris Game in C++ ✒️✨
 Tetris Game developed in C++ programming Language including SFML Graphics and Audios
 
-This project is solely made in ubuntu Linux VS CODE.
+                      This project is solely made in ubuntu Linux VS CODE.
 
 For installing the g++ in linux and type the command
 
-sudo apt-get install g++
+- `Link:`sudo apt-get install g++
 
 After installing the g++ compiler install VS code or you can do it with normal gedit commands.
 
