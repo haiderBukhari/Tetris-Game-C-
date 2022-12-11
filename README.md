@@ -11,7 +11,7 @@ You can just download the source code and follow the below guidelines
 - `G++ Installing Link:`sudo apt-get install g++
 
 
-After installing the g++ compiler install VS code or you can do it with normal gedit commands.
+After installing the g++ compiler install VS code or you can do it without installing
 
 After doing that download the folder that I have attached as a zip
 
