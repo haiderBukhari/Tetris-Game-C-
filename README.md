@@ -5,7 +5,7 @@ Tetris Game developed in C++ programming Language including SFML Graphics and Au
 
 For installing the g++ in linux and type the command
 
-- `Link:`sudo apt-get install g++
+- `G++ Installing Link:`sudo apt-get install g++
 
 After installing the g++ compiler install VS code or you can do it with normal gedit commands.
 
@@ -13,7 +13,7 @@ After doing that download the folder that I have attached as a zip
 
 Now install the SFML graphics Library either in VS code terminal or normal Linux Terminal
 
-sudo apt-get install libsfml-dev
+- `Installing SFML Library:`[sudo apt-get install libsfml-dev](sudo apt-get install libsfml-dev)
 
 
 
