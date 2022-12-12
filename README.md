@@ -27,7 +27,7 @@ After doing that download the folder that I have attached as a zip
 
                      Run the following command in Terminal either VS code by pointer to the folder or in normal Linux Terminal
                      
-- `Compiling:` g++ -c Haider.cpp
-- `Linking libraries:`g++ Haider.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+- `Compiling:` g++ -c Project.cpp
+- `Linking libraries:`g++ Project.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 - `Executing`./sfml-app
 
